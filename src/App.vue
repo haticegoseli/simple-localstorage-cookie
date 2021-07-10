@@ -41,5 +41,12 @@ export default {
 h2 {
   font-weight: bold;
 }
+label {
+  float: left;
+  font-weight: bold;
+}
+p{
+  text-align: left;
+}
 
 </style>
